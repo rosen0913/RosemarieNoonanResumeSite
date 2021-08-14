@@ -1,0 +1,80 @@
+ /* The color of the nav bar*/ 
+.navigation {
+
+    background-color: rgba(150, 150, 150, 0.514);
+    overflow: hidden;
+    border-radius: 25px;
+    }
+     /*The color of the text within the nav bar */ 
+.navigation a {
+    font-family:verdana;
+    float: left;
+    color: #d6d6d6;
+    text-align: auto;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 25px;
+}  
+.navigation a:hover {
+    background-color: #424242;
+    color: #000000;
+}
+.active-page {
+    background-color: #698570d8;
+
+}
+.banner {
+    color: #A0DDE6;
+    font-size: large;
+
+}
+
+body {
+        background: url(images/back.jpg);
+        background-repeat: no-repeat;
+        background-size: cover
+
+
+      }
+p1 {
+    font-family: Verdana;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    padding: 14px 16px;
+    font-size:20px;
+
+}
+h1 {
+    font-family: verdana;
+    font-size: 50px;
+}
+
+.card {
+    color: #ffff;
+    background-color: rgba(150, 150, 150, 0.349);
+        margin-top: 10px;
+        border-radius: 25px;
+
+}
+
+.card-body {
+    padding: 17px;
+    background-color: rgba(150, 150, 150, 0.514);
+    color: white;
+    border-radius: 25px;
+
+}
+h2 {
+    color: #A0DDE6;
+    font-size: 25;
+
+}
+h3 {
+    font-family: verdana;
+    font-size: 25px;
+}
+.Photos {
+    padding: 14px 16px;
+
+}
